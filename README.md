@@ -1,4 +1,17 @@
-# Friendship Web
+# SETENGAH LUSIN
 
-Upload semua file ke GitHub repository.
-Aktifkan Settings > Pages > Deploy from branch > main /(root).
+Website persahabatan bertema galaksi.
+
+## Fitur
+
+- Saturnus
+- Bintang berkedip
+- Bintang jatuh
+- Spotify Fix You
+- Ayat Alkitab
+- Instagram & TikTok
+- Kartu Sahabat
+
+## Deploy
+
+Upload ke GitHub lalu aktifkan GitHub Pages.
