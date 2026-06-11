@@ -3,13 +3,24 @@ header{text-align:center}.card{background:#fff;padding:15px;border-radius:12px;m
 button{padding:10px 15px;border-radius:20px;border:none;cursor:pointer}
 .overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);justify-content:center;align-items:center}
 .modal{background:#fff;padding:20px;border-radius:15px;max-width:400px}
+```css
 .music{
-max-width:700px;
-margin:auto;
-margin-top:50px;
-padding:20px;
-background:white;
-border-radius:20px;
-box-shadow:0 10px 30px rgba(0,0,0,.15);
-text-align:center;
+    max-width:700px;
+    margin:50px auto;
+    background:white;
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
 }
+
+.music h2{
+    color:#ff4d88;
+    margin-bottom:10px;
+}
+
+.music p{
+    color:#555;
+    margin-bottom:20px;
+}
+```
